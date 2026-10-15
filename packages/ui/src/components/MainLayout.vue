@@ -126,7 +126,7 @@ const logoSize = computed(() => {
 })
 
 const openBrandWebsite = async () => {
-  await openExternalUrl('https://always200.com', { logPrefix: 'MainLayout' })
+  await openExternalUrl('https://prompt.5432.org', { logPrefix: 'MainLayout' })
 }
 </script>
 
